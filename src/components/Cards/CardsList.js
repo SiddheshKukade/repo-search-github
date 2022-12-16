@@ -17,7 +17,6 @@ const CardsList = ({ route }) => {
             name={repo.name}
             language_url={repo.languages_url}
             stars={repo.stargazers_count}
-            watchers={repo.subscribers_count}
             score={repo.score}
             created_at={repo.created_at}
             languagesList
