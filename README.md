@@ -59,7 +59,7 @@
 
 ## Getting Started
 ### Prerequisites
-
+Please get your GitHub API Persnal Access Token and use it is requests by replacing it with `<YOUR_AUTH_TOKEN>` in the request headers.
 Please install [node@LTS](https://nodejs.org/en/) 
 * update npm to latest versiob
   ```sh
