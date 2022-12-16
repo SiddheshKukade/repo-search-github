@@ -17,7 +17,12 @@ export default function RepoCard({
   let [languagesList, setLanguagesList] = useState([]);
   let [langString, setLangString] = useState("");
   async function getGithubRepo() {
-    await fetch(language_url)
+    await fetch(language_url,{
+      headers: {
+        Authorization:
+          "Bearer <YOUR_AUTH_TOKEN>",
+      },
+    })
       .then((response) => response.json())
       .then((responseJson) => {
         setLanguagesList(Object.entries(responseJson));
