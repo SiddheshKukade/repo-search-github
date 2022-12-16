@@ -39,7 +39,7 @@ const Home = ({ navigation }) => {
     await fetch(URL, {
       headers: {
         Authorization:
-          "Bearer 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",
+          "Bearer <YOUR_AUTH_TOKEN>",
       },
     })
       .then((response) => response.json())
