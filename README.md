@@ -14,7 +14,7 @@
    </p>
 </div>
 
-
+  <h4> <a href="#usage--demo"> 🤩See the Demo🤩</a>  </h4>
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -87,12 +87,16 @@ Follow the below steps to install & run the project in you enviroment.
    ```
 
 ## Usage & Demo
-### Video Demo: 
+### Video Demo: [Please Unmute the video if muted 🔉 ] 
+[GitHub Search App Demo By SiddheshKukade.webm](https://user-images.githubusercontent.com/65951872/208241541-aae5553a-36a3-4176-8912-f2c2d76fa5c2.webm)
+
 ### Search Screen: 
 ![image](https://user-images.githubusercontent.com/65951872/208170949-60cb5cf4-3c13-4c4a-8751-5a6099c3b1a3.png)
 ### Sort Options:
 ![image](https://user-images.githubusercontent.com/65951872/208177083-1632ebe5-49a4-451a-aa4c-6dcf213544eb.png)
 ## Results Screen:
+![image](https://user-images.githubusercontent.com/65951872/208241580-43bb85e7-751f-4f49-9a9f-e21fa8f20d63.png)
+
 
 ## License
 
@@ -109,22 +113,6 @@ Links to resources used in this project.
 
 * [React-Native](https://reactnative.dev)
 * [React Native Paper UI ](https://reactnativepaper.com/)
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-
-
-
-
-
-
-# Repository Search & View Using GitHub API
-
-#
-
 
 
 
