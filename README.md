@@ -88,6 +88,7 @@ Follow the below steps to install & run the project in you enviroment.
 
 ## Usage & Demo
 ### Video Demo: [Please Unmute the video if muted 🔉 ] 
+#### _Please use this link if video is not supported : https://www.youtube.com/watch?v=lPgjKB5912o_ 
 [GitHub Search App Demo By SiddheshKukade.webm](https://user-images.githubusercontent.com/65951872/208241541-aae5553a-36a3-4176-8912-f2c2d76fa5c2.webm)
 
 ### Search Screen: 
